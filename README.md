@@ -1,4 +1,4 @@
-# **ROCK PAPER SCISSORS**
+# **✊🤚✌️ ROCK PAPER SCISSORS ✌️🤚✊**
 
 ROCK PAPER SCISSORS é um jogo interativo inspirado no "Jocken pow" do Brasil, onde você pode desafiar a máquina (PC) em uma partida clássica de Pedra, Papel e Tesoura.
 
